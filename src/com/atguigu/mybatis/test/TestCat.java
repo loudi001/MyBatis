@@ -106,5 +106,10 @@ public class TestCat {
 			}
 		}
 	}
+	@Test
+	public void test(){
+		
+		
+	}
 
 }
