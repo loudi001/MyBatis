@@ -109,8 +109,8 @@ public class TestCat {
 	@Test
 	public void test(){
 		
-		System.out.println("hello my github....")
-		System.out.println("hello github....")
+		System.out.println("hello my github....");
+		System.out.println("hello github....");
 	} 
 
 }
